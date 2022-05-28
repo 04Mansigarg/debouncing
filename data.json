@@ -1,0 +1,728 @@
+{"tops": [
+    {
+      "brand_name": "SASSAFRAS",
+      "name": "Black High Neck Cropped Top",
+      "price": {
+        "sp": 499,
+        "mrp": 999,
+        "discount": 50
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.5,
+      "product_details": [
+        "Black and white embroidered woven regular top",
+        "has a mandarin collar",
+        "long sleeves and concealed zip closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/d7ae3065-98d4-42d0-b244-d2b18802ff101601959656577-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/5779fc09-4088-48a9-9e0e-2d1d6a3572da1601959656523-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/7e3f0bf1-2517-4c35-b3e2-d806322972461601959656454-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/4e6fc0b7-c8c6-4ede-9fb2-c1120983a44b1601959656406-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/228e1a91-b15b-47d8-b96a-cf596ec4294c1601959656342-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "QUIERO",
+      "name": "Black & White Embroidered Top",
+      "price": {
+        "sp": 769,
+        "mrp": 1789,
+        "discount": 57
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.5,
+      "product_details": [
+        "Black and white embroidered woven regular top",
+        "has a mandarin collar",
+        "long sleeves and concealed zip closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11157052/2021/9/15/8ad5d3f2-75c2-41f6-b3a5-3fc0434813f81631705427373-QUIERO-Women-Black--White-Embroidered-Top-3041631705426967-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11157052/2021/9/15/fbe74e3b-f43c-4cd2-ab29-834d9b5e88551631705427355-QUIERO-Women-Black--White-Embroidered-Top-3041631705426967-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11157052/2021/9/15/75f3be1e-6690-418b-b6bf-5af58817a7b61631705427348-QUIERO-Women-Black--White-Embroidered-Top-3041631705426967-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11157052/2021/9/15/ed7ddc3c-0fc9-459e-bd80-0d89096644ce1631705427341-QUIERO-Women-Black--White-Embroidered-Top-3041631705426967-6.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11157052/2021/9/15/15ebc0f3-06b4-43dd-9eb8-759ea3c30d871631705427380-QUIERO-Women-Black--White-Embroidered-Top-3041631705426967-1.jpg"
+      ]
+    },
+    {
+      "brand_name": "SASSAFRAS",
+      "name": "Sassafras Brown & Red Geometric Printed Georgette Wrap Crop Top",
+      "price": {
+        "sp": 599,
+        "mrp": 1499,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.4,
+      "product_details": [
+        "Brown and red crop wrap top",
+        "Printed",
+        "Wovengeorgette",
+        "Shirt collar",
+        "Three-quarter sleeves",
+        "cuffed sleeves"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13842966/2021/4/3/3d20dde9-8c47-48f2-a079-8cdacd9c78b11617444711671-Sassafras-Brown--Red-Geometric-Printed-Georgette-Wrap-Crop-T-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13842966/2021/4/3/9980b191-5c41-4b54-8f96-bb23e862b3a11617444711651-Sassafras-Brown--Red-Geometric-Printed-Georgette-Wrap-Crop-T-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13842966/2021/4/3/9f58c110-12ae-44d5-b0bc-77abe36ca2671617444711627-Sassafras-Brown--Red-Geometric-Printed-Georgette-Wrap-Crop-T-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13842966/2021/4/3/1db1ad2b-4605-4b70-916f-cebaae72dac51617444711601-Sassafras-Brown--Red-Geometric-Printed-Georgette-Wrap-Crop-T-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13842966/2021/4/3/2a390640-fa09-4571-bd1f-327ca1ed1a261617444711576-Sassafras-Brown--Red-Geometric-Printed-Georgette-Wrap-Crop-T-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "SASSAFRAS",
+      "name": "Sassafras Black & Silver Striped One Shoulder Puff Sleeves Cinched Waist Crop Top",
+      "price": {
+        "sp": 599,
+        "mrp": 1499,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "Black and silver striped crop cinched waist top",
+        "striped",
+        "woven",
+        "one shoulder",
+        "long sleeves",
+        "puff sleeves",
+        "waist tie-ups",
+        "concealed zip"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13843266/2021/3/23/9a68831d-15dc-4ac9-8eeb-4b741dc566861616501374382-Sassafras-Women-Black--Silver-Striped-One-Shoulder-Puff-Slee-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13843266/2021/3/23/27d5de19-eff5-4a96-bf03-48319dcceebd1616501374332-Sassafras-Women-Black--Silver-Striped-One-Shoulder-Puff-Slee-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13843266/2021/3/23/6c982352-d9e9-431c-b75d-f6fac8ddcd351616501374305-Sassafras-Women-Black--Silver-Striped-One-Shoulder-Puff-Slee-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13843266/2021/3/23/f8b42d32-859e-4ef7-aa4f-ca9af257c77a1616501374280-Sassafras-Women-Black--Silver-Striped-One-Shoulder-Puff-Slee-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13843266/2022/1/24/2618c5c1-c070-43a0-8207-1bb1336ba81b1643023944321-Sassafras-Black--Silver-Striped-One-Shoulder-Puff-Sleeves-Ci-7.jpg"
+      ]
+    },
+    {
+      "brand_name": "SASSAFRAS",
+      "name": "Beige & Black Animal Print Shirt Style Top",
+      "price": {
+        "sp": 629,
+        "mrp": 1399,
+        "discount": 55
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.3,
+      "product_details": [
+        "Beige",
+        "black and brown animal print woven shirt style top with ruffle detail",
+        "has a mandarin collar",
+        "a full button placket",
+        "long sleeves"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9070021/2019/3/28/f0bce3b7-9ca8-45c9-a33d-dfd07c849a9c1553778513694-SASSAFRAS-Women-Beige--Black-Regular-Fit-Printed-Shirt-11915-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9070021/2019/3/28/c016f7e6-4687-4610-945b-b5371e2c7e711553778513673-SASSAFRAS-Women-Beige--Black-Regular-Fit-Printed-Shirt-11915-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9070021/2019/3/28/d5ca15be-8cb7-40b9-84fd-088ffd1af8f61553778513653-SASSAFRAS-Women-Beige--Black-Regular-Fit-Printed-Shirt-11915-3.jpghttps://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9070021/2019/3/28/d5ca15be-8cb7-40b9-84fd-088ffd1af8f61553778513653-SASSAFRAS-Women-Beige--Black-Regular-Fit-Printed-Shirt-11915-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9070021/2019/3/28/341b7b24-b98b-4595-b8a7-74978479d2741553778513626-SASSAFRAS-Women-Beige--Black-Regular-Fit-Printed-Shirt-11915-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9070021/2019/3/28/e21c49eb-9774-459e-9692-83573bf369101553778513603-SASSAFRAS-Women-Beige--Black-Regular-Fit-Printed-Shirt-11915-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "SASSAFRAS",
+      "name": "Olive Green & Beige Floral Georgette Blouson Top",
+      "price": {
+        "sp": 599,
+        "mrp": 1499,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.3,
+      "product_details": [
+        "Olive Green and beige blouson top",
+        "Floral print",
+        "Round neck",
+        "three-quarter",
+        "puff sleeve sleeves",
+        "Gathered or pleated detail",
+        "Woven georgette"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/899b523a-f57a-48fb-80cd-8422614f195d1580451588210-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/4951efdb-c49c-467e-b668-62698335eef11580451588175-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/aaa71235-2b2f-4197-afc4-58976dd8e8301580451588140-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/f9fe1a54-341d-4bb2-aa53-db1b2e05ef261580451588104-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/96e49480-ba93-4d3b-88e6-2152c1f1af611580451588064-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "QUIERO",
+      "name": "Black Peter Pan A-Line Top",
+      "price": {
+        "sp": 767,
+        "mrp": 1785,
+        "discount": 57
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.3,
+      "product_details": [
+        "Black solid woven A-line top",
+        "has a Peter Pan collar",
+        "long sleeves",
+        "button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5965271/2018/5/16/163f23bf-fdd2-4965-a8e0-b1afe572fbba1526460475925-nA-3871526460475766-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5965271/2018/5/16/6157671e-6a28-459b-8ea0-c036d08930411526460475898-nA-3871526460475766-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5965271/2018/5/16/b04218af-0120-44c1-b7fd-7268691045971526460475878-nA-3871526460475766-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5965271/2018/5/16/d53120ed-3d30-41fe-8279-21c09cc4c9ba1526460475853-nA-3871526460475766-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5965271/2018/5/16/029a4edb-fb6f-44d3-bd5b-200eb8dfa1e81526460475833-nA-3871526460475766-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "QUIERO",
+      "name": "Rose Top With Cap Sleeves",
+      "price": {
+        "sp": 1124,
+        "mrp": 2499,
+        "discount": 55
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.1,
+      "product_details": [
+        "Rose solid woven top with applique and pleated detail",
+        "has a round neck",
+        "short sleeves",
+        "an attached lining"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921237/2019/6/12/a24b8064-2339-4177-ac78-9821aec82fd11560334977128-QUIERO-Women-Tops-1071560334975724-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921237/2019/6/12/a6c3879f-03d9-4098-adec-29084a007a1b1560334977103-QUIERO-Women-Tops-1071560334975724-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921237/2019/6/12/18597dff-dbf9-4464-8a5a-8223040862ac1560334977079-QUIERO-Women-Tops-1071560334975724-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921237/2019/6/12/e09573bb-4699-415f-819e-82d72fe2891b1560334977055-QUIERO-Women-Tops-1071560334975724-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921237/2019/6/12/e904cc5f-fc6f-43b8-9167-6a4d93af05921560334977035-QUIERO-Women-Tops-1071560334975724-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "QUIERO",
+      "name": "Black & Pink Floral Empire Sleeveless Top With Shoulder Straps",
+      "price": {
+        "sp": 675,
+        "mrp": 1689,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.4,
+      "product_details": [
+        "Black",
+        "pink and grey printed woven empire top with smocking and layered detail",
+        "has shoulder straps and an attached lining"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10771680/2019/10/16/b2ba25bc-d273-4834-8cc4-754af083b9fb1571224535325-QUIERO-Women-Tops-5791571224533311-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10771680/2019/10/16/5491930d-d734-4713-a27b-875b6dde75851571224535285-QUIERO-Women-Tops-5791571224533311-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10771680/2019/10/16/7a0ac2d6-fb70-42ce-8dd7-4b72f505f75c1571224535243-QUIERO-Women-Tops-5791571224533311-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10771680/2019/10/16/837d0abe-2bbb-4aae-a20e-4964c8fd00741571224535201-QUIERO-Women-Tops-5791571224533311-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10771680/2019/10/16/4e42d643-d538-401d-a74f-2780f9dfdb041571224535161-QUIERO-Women-Tops-5791571224533311-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "QUIERO",
+      "name": "Women White Solid Crop Bardot Top",
+      "price": {
+        "sp": 724,
+        "mrp": 1686,
+        "discount": 57
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.4,
+      "product_details": [
+        "White solid woven crop bardot top with tie-up and ruffle detail",
+        "has an off-shoulder",
+        "three-quarter bell sleeves",
+        "an attached lining"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921187/2019/6/12/ebc71e6f-eb68-4914-8220-fa7168b8abe41560325642412-QUIERO-Women-Tops-691560325640311-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921187/2019/6/12/b56b3fb5-f2e2-4c6d-bb59-c2b8c52afa651560325642387-QUIERO-Women-Tops-691560325640311-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921187/2019/6/12/238b1bc9-ad03-44a8-b47e-ce6f8fdd26811560325642360-QUIERO-Women-Tops-691560325640311-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921187/2019/6/12/49c443d5-f603-4353-b1ff-53dfb8305e4d1560325642334-QUIERO-Women-Tops-691560325640311-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9921187/2019/6/12/7bfe1b63-af14-494c-942c-f52f1d9d3b191560325642314-QUIERO-Women-Tops-691560325640311-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "URBANIC",
+      "name": "White & Red Printed Tie-Up Neck Top",
+      "price": {
+        "sp": 745,
+        "mrp": 1490,
+        "discount": 50
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": "4.3",
+      "product_details": [
+        "White and red regular top",
+        "Ethnic motifs print",
+        "Tie-up neck",
+        "Long, cuffed sleeves",
+        "Tie-ups detail",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630788/2021/10/3/0b9ea60d-2810-4591-8bcf-be34a95d34f31633238332357URBANICBlueRegularTopTopsURBANICWomenTopsURBANICWomen1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630788/2021/10/3/c9f48baa-1638-4a74-ab5b-75f724f87a531633238332396URBANICBlueRegularTopTopsURBANICWomenTopsURBANICWomen2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630788/2021/10/3/3bf8bbed-b477-4eae-ae64-2f76fee7a0181633238332417URBANICBlueRegularTopTopsURBANICWomenTopsURBANICWomen3.jpg"
+      ]
+    },
+    {
+      "brand_name": "URBANIC",
+      "name": "Blue Floral Embroidered Wrap Top",
+      "price": {
+        "sp": 795,
+        "mrp": 1590,
+        "discount": 50
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.9,
+      "product_details": [
+        "Blue regular wrap top",
+        "Floral embroidered",
+        "V-neck, long, regular sleeves",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630334/2021/10/3/e483827b-ff7c-4fc4-be88-55d3a7d0114a1633238225953URBANICBlueFloralEmbroideredWrapTop1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630334/2021/10/3/bdd9421f-0a43-4bf0-b06e-bfe0f214a8151633238226111URBANICBlueFloralEmbroideredWrapTop2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630334/2021/10/3/25232690-23a6-4dd5-b79e-ff7d95411f241633238226236URBANICBlueFloralEmbroideredWrapTop3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630334/2021/10/3/a076b3c8-361f-4dc4-b248-859994a7cdb51633238226385URBANICBlueFloralEmbroideredWrapTop4.jpg"
+      ]
+    },
+    {
+      "brand_name": "URBANIC",
+      "name": "Rose Lettuce Trim Bardot Crop Top",
+      "price": {
+        "sp": 623,
+        "mrp": 890,
+        "discount": 30
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.1,
+      "product_details": [
+        "Rose crop bardot top",
+        "Solid",
+        "Off-shoulder",
+        "Short, regular sleeves",
+        "Lettuce trims",
+        "Knitted"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15631470/2021/9/30/633b9251-9b11-4120-93bf-fbc3bb68e3361633005797731TshirtsURBANICWomenTshirtsURBANICWomenTshirtsURBANICWomenTsh1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15631470/2021/9/30/edc48df2-bccb-469f-b69a-4ecfbcdec0b11633005797751TshirtsURBANICWomenTshirtsURBANICWomenTshirtsURBANICWomenTsh2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15631470/2021/9/30/dc92b52d-12dc-4f33-b177-6fc36f8b82e71633005797773TshirtsURBANICWomenTshirtsURBANICWomenTshirtsURBANICWomenTsh3.jpg"
+      ]
+    },
+    {
+      "brand_name": "URBANIC",
+      "name": "Women Rust Orange Pure Cotton Solid Top",
+      "price": {
+        "sp": 1096,
+        "mrp": 1290,
+        "discount": 15
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 3.5,
+      "product_details": [
+        "Rust orange regular top",
+        "Solid",
+        "V-neck",
+        "Long, puff sleeves",
+        "Gathered or pleated detail",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15848334/2021/12/1/b2c58160-b5ac-438c-8af0-9a5ddc146eb01638361059725-URBANIC-Women-Rust-Orange-Cotton-Solid-Top-4601638361059274-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15848334/2021/12/1/2fe8d93f-9fac-4fa4-99c7-58f3d9b655561638361059716-URBANIC-Women-Rust-Orange-Cotton-Solid-Top-4601638361059274-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15848334/2021/12/1/0fd35953-90e1-4f90-92d8-a199e8d5c3c91638361059706-URBANIC-Women-Rust-Orange-Cotton-Solid-Top-4601638361059274-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15848334/2021/12/1/5594968c-5921-4da2-82fa-5cc8ab30eafb1638361059697-URBANIC-Women-Rust-Orange-Cotton-Solid-Top-4601638361059274-4.jpg"
+      ]
+    },
+    {
+      "brand_name": "URBANIC",
+      "name": "Green Solid Tank Top with Melange Effect",
+      "price": {
+        "sp": 472,
+        "mrp": 590,
+        "discount": 20
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "Green regular tank top with Melange Effect",
+        "Solid",
+        "Round neck, sleeveless",
+        "Gathered or pleated detail",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15851162/2021/11/12/52160e34-532c-44ab-a28c-0770189203881636710412095-URBANIC-Women-Tshirts-2201636710411825-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15851162/2021/11/12/380f20ff-2651-4ba7-93e5-1983713df58e1636710412088-URBANIC-Women-Tshirts-2201636710411825-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15851162/2021/11/12/c0f651dd-c390-4daa-888b-d58e6b2cef651636710412078-URBANIC-Women-Tshirts-2201636710411825-3.jpg"
+      ]
+    },
+    {
+      "brand_name": "Tokyo Talkies",
+      "name": "Women White Striped Shirt Style Top",
+      "price": {
+        "sp": 399,
+        "mrp": 999,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": "4.2",
+      "product_details": [
+        "White and orange striped woven shirt style top",
+        "has a mandarin collar",
+        "long sleeves",
+        "button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/12/6/7a026a19-b119-4284-8e0c-8079b16e31bd1544099087358-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/12/6/eb866042-e65f-4919-98a2-6eff16afcdef1544099087393-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/12/6/34061e1a-cc98-4f32-97df-8eeb1b05a43b1544099087422-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/12/6/345ea292-f8dc-4a71-9b7f-72b8d0b7cb311544099087450-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/12/6/8b9f3c31-1e8c-4644-9c09-8ca888a0033f1544099087482-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Tokyo Talkies",
+      "name": "Women White Striped Top",
+      "price": {
+        "sp": 332,
+        "mrp": 949,
+        "discount": 65
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 3.7,
+      "product_details": [
+        "White striped regular top",
+        "has a square neck",
+        "and button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/12/14/a1f2392f-e633-4926-ab8f-72ffa30e7a901607935025426-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/12/14/4d223ce8-a336-425c-93d5-e5c0d93e13ae1607935025487-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/12/14/d2b562b0-e431-4857-800a-bdcac84d677e1607935025544-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/12/14/1a123d1f-d403-404c-be7a-1f231676f7231607935025596-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/12/14/a0f3d119-45b7-451e-80be-320e054a276c1607935025651-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Tokyo Talkies",
+      "name": "Burgundy Lace Inserts Peplum Top",
+      "price": {
+        "sp": 500,
+        "mrp": 1499,
+        "discount": 990
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.4,
+      "product_details": [
+        "Burgundy solid woven peplum top",
+        "round neck",
+        "three-quarter sleeves",
+        "button closure",
+        "lace insert detail"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/16/d0d54151-be63-4ef9-a75c-bc0411bb34d51560631218066-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/16/cc3372d1-6971-40fc-bac9-5464d5cf67e01560631218096-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/16/006312f0-3861-4efb-8e6b-acf753d1ca601560631218127-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/16/b86b5868-08a3-40c5-b7ed-a8b283e133271560631218162-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/16/0a5a438c-2915-41c6-9043-b665b9a40faa1560631218192-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Tokyo Talkies",
+      "name": "Women Off-White Solid A-Line Top",
+      "price": {
+        "sp": 459,
+        "mrp": 1148,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.1,
+      "product_details": [
+        "Off-White embellished woven A-line top",
+        "high neck",
+        "long sleeves",
+        "button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/19/fecdb48a-e7bc-44bb-aaef-45258f24f5231560932415436-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/19/fe2aa9cc-e2b8-45d4-97cc-efc5ed435ac21560932415463-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/19/d356aa43-9ea7-4139-a093-d376a205600b1560932415497-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/19/d09c6b15-4b52-4834-aae8-9b1400ce8af81560932415530-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/19/8252c96e-f4ea-47a5-8742-f6d382b1c2311560932415559-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Tokyo Talkies",
+      "name": "Women Yellow Solid Shirt Style Top",
+      "price": {
+        "sp": 600,
+        "mrp": 1599,
+        "discount": 62
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "Yellow solid woven shirt style top",
+        "mandarin collar",
+        "long sleeves",
+        "button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/9/14f9e74c-1732-4435-b3c0-6e8ab2946af71599605588267-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/9/76c27760-4f4b-41a5-9f71-86dfef4405161599605588371-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/9/2a77c57d-33bb-41af-9d52-b240fe43ebb91599605588428-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/9/f249ffc3-8283-4f8e-a869-8317b21fcce31599605588497-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/9/32626506-ef0c-4a31-a1a6-0fea801af7e31599605588547-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Vero Moda",
+      "name": "White Printed Shirt Style Top",
+      "price": {
+        "sp": 1519,
+        "mrp": 1899,
+        "discount": 20
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.3,
+      "product_details": [
+        "White Shirt Style Top",
+        "Abstract print",
+        "Shirt collar , short, flared sleeve",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16687268/2022/1/5/6aeb186f-6127-452c-89e1-21f083293a591641325178036Tops1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16687268/2022/1/5/116a3b22-8591-434a-be63-5f3d6241f1f51641325178408Tops2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16687268/2022/1/5/886bb4bd-4d42-4a63-8820-0df50f4db3031641325178301Tops3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16687268/2022/1/5/1640016b-48b7-4e41-8dd5-4c1f022992cb1641325178370Tops4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16687268/2022/1/5/43796fc2-34e8-453c-916a-8e4a24859a7a1641325178292Tops5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Vero Moda",
+      "name": "Women Navy Blue & Beige Printed Regular Top",
+      "price": {
+        "sp": 999,
+        "mrp": 1999,
+        "discount": 50
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.3,
+      "product_details": [
+        "Navy blue and beige regular top",
+        "Abstract print",
+        "Round neck, sleeveless, no sleeves",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15237486/2021/10/12/2cc819f0-97ea-4177-aac6-91b958a0b1b41634026915922-Vero-Moda-Women-Navy-Blue--Beige-Printed-Regular-Top-7641634-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15237486/2021/10/12/303f5bd5-6cad-45b5-8f85-aaeb0ad4ef4d1634026915903-Vero-Moda-Women-Navy-Blue--Beige-Printed-Regular-Top-7641634-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15237486/2021/10/12/920baa70-0f4f-42dc-a7aa-173c834d3d741634026915882-Vero-Moda-Women-Navy-Blue--Beige-Printed-Regular-Top-7641634-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15237486/2021/10/12/44a26b51-3f13-42dc-83f8-d05068d15ab71634026915861-Vero-Moda-Women-Navy-Blue--Beige-Printed-Regular-Top-7641634-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15237486/2021/10/12/285729ac-02ff-4683-a7e1-81b87983cfa51634026915840-Vero-Moda-Women-Navy-Blue--Beige-Printed-Regular-Top-7641634-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Vero Moda",
+      "name": "Olive Green Striped Shirt Style Top",
+      "price": {
+        "sp": 1519,
+        "mrp": 1899,
+        "discount": 20
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 3.2,
+      "product_details": [
+        "Olive green regular shirt style top",
+        "Vertical striped",
+        "Shirt collar",
+        "Short & regular sleeves",
+        "Woven"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16905126/2022/1/22/eef2ce8b-6ad5-460b-8ce6-a6d29391c0db1642838975924VeroModaOliveGreenStripedShirtStyleTop1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16905126/2022/1/22/db549fdf-e1ec-4044-b13c-a2f96c740d871642838975757VeroModaOliveGreenStripedShirtStyleTop2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16905126/2022/1/22/6386e673-0f7e-414e-aaab-7cdb48b1013c1642838975618VeroModaOliveGreenStripedShirtStyleTop3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16905126/2022/1/22/30e5ca8c-e4d6-4041-a978-904c59141b171642838975854VeroModaOliveGreenStripedShirtStyleTop4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16905126/2022/1/22/b828967b-ba5f-40ba-a2d1-ff4b5e474b671642838975551VeroModaOliveGreenStripedShirtStyleTop5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Vero Moda",
+      "name": "Black & White Print Mandarin Collar Shirt Style Top",
+      "price": {
+        "sp": 1839,
+        "mrp": 2299,
+        "discount": 20
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.5,
+      "product_details": [
+        "Black and white regular shirt style top",
+        "Abstract print",
+        "Mandarin collar, long, cuffed sleeves",
+        "Woven",
+        "Button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16836078/2022/1/14/12ce7ff3-4334-44b9-bf4a-e5d585e712781642164314962VeroModaBlackPrintTop1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16836078/2022/1/14/c4c79e96-6756-4fc3-a7db-431266b880441642164314507VeroModaBlackPrintTop2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16836078/2022/1/14/30d1d4a6-ef9b-4ec5-a716-e4e5de85875e1642164315130VeroModaBlackPrintTop3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16836078/2022/1/14/8483aad0-53e6-4b49-a779-672c83ba3d7b1642164315225VeroModaBlackPrintTop4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16836078/2022/1/14/9e8ff94f-fbf2-4f86-9583-3f33c952d0a51642164315122VeroModaBlackPrintTop5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Vero Moda",
+      "name": "White & Green Tropical Print A-Line Top",
+      "price": {
+        "sp": 799,
+        "mrp": 1999,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.8,
+      "product_details": [
+        "White and green regular a-line top",
+        "Tropical print",
+        "Round neck, sleeveless, no sleeves",
+        "Woven cotton",
+        "Button closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16546696/2021/12/17/0023c5e1-ef21-4975-9ec5-e062ed1499691639741774009VeroModaWhiteFloralPrintPeplumTop1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16546696/2021/12/17/f9c0784a-f1c3-41e0-b2a4-a698e37ce1e61639741775085VeroModaWhiteFloralPrintPeplumTop2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16546696/2021/12/17/766447b1-5275-4829-832c-7171ba6875d81639741773050VeroModaWhiteFloralPrintPeplumTop3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16546696/2021/12/17/a5ed9e6a-3618-475f-afe6-163a18537f2b1639741774762VeroModaWhiteFloralPrintPeplumTop4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16546696/2021/12/17/9242d054-51dd-4a02-8f3a-c53940ecc8f01639741772708VeroModaWhiteFloralPrintPeplumTop5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Roadster",
+      "name": "Mauve High-Low Pure Cotton Top",
+      "price": {
+        "sp": 314,
+        "mrp": 699,
+        "discount": 55
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "Mauve solid woven high-low top",
+        "round neck",
+        "short sleeves"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8330353/2019/1/9/c1b25f6f-91d4-42ee-a09c-ba38fe407f691547027729263-Roadster-Women-Pink-Solid-High-Low-Top-261547027728092-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8330353/2019/1/9/f2d628c7-252e-4438-9bc2-cf32a3916dd61547027729248-Roadster-Women-Pink-Solid-High-Low-Top-261547027728092-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8330353/2019/1/9/7d390984-8c5b-4fb2-8e31-4ae7aeebb7611547027729231-Roadster-Women-Pink-Solid-High-Low-Top-261547027728092-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8330353/2019/1/9/661bc1e6-11ac-4447-8487-63930b8b16be1547027729210-Roadster-Women-Pink-Solid-High-Low-Top-261547027728092-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8330353/2019/1/9/cb9f5f75-1b14-438e-93eb-37fb5714cc921547027729197-Roadster-Women-Pink-Solid-High-Low-Top-261547027728092-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Roadster",
+      "name": "Burgundy Top With Front Tie-Up Detail",
+      "price": {
+        "sp": 239,
+        "mrp": 599,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 3.6,
+      "product_details": [
+        "Burgundy solid knitted regular top with waist tie-ups",
+        "stylish scoop neck",
+        "no sleeves",
+        "mock button detail"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8593785/2019/6/1/d9d235f1-950a-47ed-95c5-5da2922c09561559393674575-Roadster-Women-Maroon-Solid-Top-6411559393673700-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8593785/2019/6/1/47eea338-0915-4f5b-b673-b2e36f152bd41559393674560-Roadster-Women-Maroon-Solid-Top-6411559393673700-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8593785/2019/6/1/54e96524-b766-4c5f-bcaf-e9c56a488ce11559393674545-Roadster-Women-Maroon-Solid-Top-6411559393673700-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8593785/2019/6/1/22129229-43f9-4f68-904d-0965f5297fb21559393674529-Roadster-Women-Maroon-Solid-Top-6411559393673700-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8593785/2019/6/1/c73cb25f-4764-48dd-bc68-a3ffc5cf11a01559393674519-Roadster-Women-Maroon-Solid-Top-6411559393673700-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Roadster",
+      "name": "Women Pink Solid Top",
+      "price": {
+        "sp": 314,
+        "mrp": 699,
+        "discount": 55
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 3.8,
+      "product_details": [
+        "Pink solid knitted top",
+        "round neck",
+        "three-quarter sleeves"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7329140/2018/12/1/adf332c7-e991-4fc8-a4a2-3727b11355391543660686240-Roadster-Women-Tops-1181543660686131-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7329140/2018/12/1/805243db-fd92-4de2-a658-30d6367209a31543660686228-Roadster-Women-Tops-1181543660686131-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7329140/2018/12/1/d3ff20d3-8b33-467a-9823-884124d9b47e1543660686214-Roadster-Women-Tops-1181543660686131-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7329140/2018/12/1/396a4a44-569a-4170-ad06-f1a24fc4ae841543660686202-Roadster-Women-Tops-1181543660686131-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7329140/2018/12/1/57b39139-e528-4ffd-9e63-bbe375b97bd81543660686190-Roadster-Women-Tops-1181543660686131-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Roadster",
+      "name": "Women White & Black Solid A-Line Pure Cotton Top",
+      "price": {
+        "sp": 269,
+        "mrp": 599,
+        "discount": 55
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "White and black solid knitted A-line top with striped detail",
+        "round neck and sleeveless"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/93f3356b-6d47-4efe-8bee-568ec54c9b321591696221081-Roadster-Women-Tops-8421591696218528-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/0ffb8a18-5e5d-4b35-ba21-cd4de13d5ab21591696221016-Roadster-Women-Tops-8421591696218528-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/f65b14ba-2b54-45b5-b338-065679e02d801591696220958-Roadster-Women-Tops-8421591696218528-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/da78883c-e01d-4be4-870d-d73efacb81a81591696220903-Roadster-Women-Tops-8421591696218528-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/1280fa85-1391-4131-84bc-4ddc181843651591696220848-Roadster-Women-Tops-8421591696218528-5.jpg"
+      ]
+    },
+    {
+      "brand_name": "Roadster",
+      "name": "Women Maroon Solid Sustainable Top",
+      "price": {
+        "sp": 319,
+        "mrp": 799,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "Maroon solid woven regular top",
+        "V-neck",
+        "long sleeves"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/ad9d2c0c-2aa2-4d5a-9521-379ea9cf11891580454247445-Roadster-Women-Tops-4361580454246027-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/4abda9de-22b7-4987-9de2-76914443d0cb1580454247408-Roadster-Women-Tops-4361580454246027-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/b986a538-84ff-489b-adb9-90ea94b320881580454247374-Roadster-Women-Tops-4361580454246027-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/bd6a28f9-661d-4452-8ec5-e8eb9a0eb32e1580454247339-Roadster-Women-Tops-4361580454246027-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/c9ba1dbf-246c-402f-97b3-7f0d705e1cd01580454247296-Roadster-Women-Tops-4361580454246027-5.jpg"
+      ]
+    }
+]
+}
+   
